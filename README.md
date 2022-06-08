@@ -43,7 +43,7 @@
   </h3>
   <h3 align="center">
   QUEST:
-  <span color="yellow">Medium = 11,369 Polygons</span>  
+  <span color="yellow">Medium = 14,896 Polygons</span>  
   </h3>
   
   <hr>
